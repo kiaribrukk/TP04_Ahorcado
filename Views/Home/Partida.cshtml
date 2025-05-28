@@ -1,0 +1,23 @@
+<h3>Intentos: @ViewBag.intentos</h3>
+
+<div class="letrasIncorrectas">
+<h3>Letras incorrectas</h3>
+<h4>
+@foreach (char letra in ViewBag.errores)
+    {
+        @($"{letra} ")
+    }
+<br>
+</h4>
+</div>
+<form action='@Url.Action("adivinaLetra", "Home")' method="POST">
+    Arriesgá una letra 
+    <input autocomplete="off" type="text" maxlength="1" name="adivina" required autofocus>
+    <input class="boton" type="submit" value="Arriesgar Letra">
+    @if(ViewBag.mensaje != null) {<h3 class="error">@ViewBag.mensaje</h3>}
+</form> 
+
+<form action='@Url.Action("adivinaPalabra", "Home")' method="POST">
+    Arriesgá una palabra
+    <input class="boton" type="submit" value="Arriesgar Palabra">
+</form>

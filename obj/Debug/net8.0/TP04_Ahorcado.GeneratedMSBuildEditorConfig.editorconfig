@@ -9,31 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP04_Ahorcado
 build_property.RootNamespace = TP04_Ahorcado
-build_property.ProjectDir = z:\Programación 2025\TP04_Ahorcado\
+build_property.ProjectDir = Z:\Programación 2025\TP04_Ahorcado\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = z:\Programación 2025\TP04_Ahorcado
+build_property.MSBuildProjectDirectory = Z:\Programación 2025\TP04_Ahorcado
 build_property._RazorSourceGeneratorDebug = 
 
-[z:/Programación 2025/TP04_Ahorcado/Views/Home/Index.cshtml]
+[Z:/Programación 2025/TP04_Ahorcado/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Programación 2025/TP04_Ahorcado/Views/Shared/_Layout.cshtml]
+[Z:/Programación 2025/TP04_Ahorcado/Views/Home/Partida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Programación 2025/TP04_Ahorcado/Views/Home/Resultado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHRhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Programación 2025/TP04_Ahorcado/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Programación 2025/TP04_Ahorcado/Views/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/Programación 2025/TP04_Ahorcado/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Programación 2025/TP04_Ahorcado/Views/_ViewImports.cshtml]
+[Z:/Programación 2025/TP04_Ahorcado/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Programación 2025/TP04_Ahorcado/Views/_ViewStart.cshtml]
+[Z:/Programación 2025/TP04_Ahorcado/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

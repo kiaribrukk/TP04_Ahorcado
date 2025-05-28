@@ -1,0 +1,12 @@
+@if(ViewBag.resultado)
+{
+    <h1>Ganaste</h1>
+    <h3>Tuviste (@ViewBag.intentos) intentos</h3>
+}
+else
+    {
+     <h1>Perdiste</h1>
+     <h3>@ViewBag.mensaje</h3>
+     <h3>La palabra era @ViewBag.palabra</h3>
+    }
+
